@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Exercises from SICP
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
