@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Exercises from SICP
-baseurl: "/sicp-exercises"
+baseurl: /sicp-exercises
 
 markdown: kramdown
 kramdown:
