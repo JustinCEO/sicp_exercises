@@ -7,6 +7,4 @@ Also check out [my SICP learning project page](https://blog.justinmallone.com/si
 
 1.1 The Elements of Programming
 
-| [1.1](/sicp_exercises/chapter_01/exercise-1-01) | [1.2](/sicp_exercises/chapter_01/exercise-1-02) | [1.3](/sicp_exercises/chapter_01/exercise-1-03) | [1.4](/sicp_exercises/chapter_01/exercise-1-04)
-
-9:53pm
+| [1.1](/sicp_exercises/chapter_01/exercise-1-01) | [1.2](/sicp_exercises/chapter_01/exercise-1-02) | [1.3](/sicp_exercises/chapter_01/exercise-1-03) | [1.4](/sicp_exercises/chapter_01/exercise-1-04) | 
