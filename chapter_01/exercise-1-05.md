@@ -1,6 +1,5 @@
-My thoughts on this exercise as I was figuring it out are available on my blog:
+My thoughts on this exercise as I was figuring it out are available on my [blog](https://blog.justinmallone.com/sicp-chapter_1_1-the-elements-of-programming-part-2/#exercise-15-%E2%9C%85):
 
-https://blog.justinmallone.com/sicp-chapter_1_1-the-elements-of-programming-part-2/#exercise-15-%E2%9C%85
 
 **Exercise 1.5**
 
@@ -21,12 +20,12 @@ https://blog.justinmallone.com/sicp-chapter_1_1-the-elements-of-programming-part
 
 > What behavior will Ben observe with an interpreter that uses applicative-order evaluation? What behavior will he observe with an interpreter that uses normal-order evaluation? Explain your answer. (Assume that the evaluation rule for the special form `if` is the same whether the interpreter is using normal or applicative order: The predicate expression is evaluated first, and the result determines whether to evaluate the consequent or the alternative expression.)
 
-Short summary:
+**Short summary**
 
 1. in an applicative order language, `test` will infinitely loop due to `p`, which loops infinitely, getting evaluated when `test` is initially invoked.
 2. in a normal order language, `test` will return 0, due to only the *x* ever getting evaluated because of how normal order works and how the `if` is constructed.
 
-Explanation:
+**Explanation**
 
 This problem is testing the reader's understanding of applicative order versus normal order.
 
